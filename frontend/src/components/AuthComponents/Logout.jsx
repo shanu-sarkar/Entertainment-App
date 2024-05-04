@@ -5,7 +5,8 @@ import { useNavigate } from 'react-router-dom';
 
 // from custom files 
 import MyContext from '../../context/MyContext';
-const baseUrl = 'http://localhost:8000/api'
+// const baseUrl = 'http://localhost:8000/api'
+const baseUrl = "https://entertainment-app-backendshanu.vercel.app/";
 
 // logout components 
 function Logout() {
