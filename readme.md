@@ -89,7 +89,7 @@ npm run dev
 cd ../backend
 npm run dev
 
-4. Access the application at http://localhost:5173 for the frontend and http://localhost:8000 for the backend.
+4. Access the application at [title](http://localhost:5173) for the frontend and [run backend](http://localhost:8000 for the backend.)
 
 Contributing:-
 We welcome contributions from the community! If you find any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request.
