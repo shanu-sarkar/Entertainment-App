@@ -111,7 +111,9 @@
  - vercel
   
  4. Follow Prompts: Follow the prompts in the CLI to set up your deployment. You might be asked to provide your project name, and Vercel will handle the deployment process for you.
+  
  5. Access Your Deployment: Once the deployment process is complete, Vercel will provide you with a URL where your application is hosted.
+    
  6. Custom Domain (Optional): If you have a custom domain, you can set it up through the Vercel dashboard or CLI.
 
 - Remember to configure your backend deployment separately if you're hosting it on a different platform like Heroku or Vercel Functions. If you're using Vercel Functions for your backend, you can follow similar - steps to deploy it using the Vercel CLI.
