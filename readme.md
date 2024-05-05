@@ -94,8 +94,8 @@
 - cd frontend
 - npm run dev
 
-- cd ../backend
-- npm run dev
+- `cd ../backend`
+- `npm run dev`
 
 4. Access the application at:-
   - http://localhost:5173 for the frontend and
