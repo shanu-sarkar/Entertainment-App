@@ -1,5 +1,5 @@
-# H1 Entertainment App
-Welcome to our Entertainment App project! This repository contains both the frontend and backend code for our application. The frontend is built using React with Vite and Tailwind CSS, while the backend is built with Node.js using Express, Axios, Crocs, JWT for authentication, Mongoose for MongoDB database interaction, and Nodemon for automatic server restarts during development.
+# Entertainment App
+## Welcome to our Entertainment App project! This repository contains both the frontend and backend code for our application. The frontend is built using React with Vite and Tailwind CSS, while the backend is built with Node.js using Express, Axios, Crocs, JWT for authentication, Mongoose for MongoDB database interaction, and Nodemon for automatic server restarts during development.
 
 File Structure
 Frontend :-
@@ -63,8 +63,9 @@ Technologies Used :-
   .Mongoose
   .Nodemon
 
-Live Link Frontent:-https://entertainment-app-shnau.vercel.app
-Live Link Backend:-https://entertainment-app-backendshanu.vercel.app
+# Deployment
+.Frontent:-https://entertainment-app-shnau.vercel.app/
+.Backend:-https://entertainment-app-backendshanu.vercel.app/
 
 Getting Started
 To get started with the development of this project, follow these steps:
