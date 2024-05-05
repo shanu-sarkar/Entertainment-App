@@ -50,20 +50,37 @@
 
 # Technologies Used :-
 - Frontend:-
-  - React
   - Vite
+  - Npm
+  - HTML
+  - CSS
   - Tailwind CSS
-  - Post CSS
+  - React.js
+  - React Query
+  - Javascript
+  - Context API
+  - React hook form
+  - React Loader Spinner
 
 - Backend:-
   - Node.js
   - Express
-  - Axios
   - Crocs
   - JWT
+  - MongoDB
   - Mongoose
-  - Nodemon
+  - dotenv
+  - cookie-parser
+  - bcrypt
 
+### Configure Environment Variables: Create a .env file based on the provided .env.example file. Provide your MongoDB URI and TMDB API key in the .env file.
+  [
+    MONGODB_URL= "Mongodb connection string our url "
+TOKEN= "Secret token for authentication & cookies"
+NODE_ENV="Current environment - Development or Production"
+TMDB_KEY="TMDB api key "
+FRONTEND_URL="Frontend url"
+  ]
 # Deployment:-
 - Frontent:-https://entertainment-app-shnau.vercel.app/
 - Backend:-https://entertainment-app-backendshanu.vercel.app/
