@@ -53,17 +53,18 @@
   - React
   - Vite
   - Tailwind CSS
+  - Post CSS
 
 - Backend:-
   - Node.js
-  -Express
+  - Express
   - Axios
   - Crocs
   - JWT
   - Mongoose
   - Nodemon
 
-# Deployment
+# Deployment:-
 - Frontent:-https://entertainment-app-shnau.vercel.app/
 - Backend:-https://entertainment-app-backendshanu.vercel.app/
 
@@ -87,9 +88,11 @@
 - cd ../backend
 - npm run dev
 
-4. Access the application at [title](http://localhost:5173) for the frontend and [run backend](http://localhost:8000 for the backend.)
+4. Access the application at:-
+  - http://localhost:5173 for the frontend and
+  - http://localhost:8000 for the backend.
 
-Contributing:-
+# Contributing:-
 - We welcome contributions from the community! If you find any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
 # License:-
@@ -107,9 +110,9 @@ Contributing:-
  - cd frontend
  - vercel
   
-- 4. Follow Prompts: Follow the prompts in the CLI to set up your deployment. You might be asked to provide your project name, and Vercel will handle the deployment process for you.
-- 5. Access Your Deployment: Once the deployment process is complete, Vercel will provide you with a URL where your application is hosted.
-- 6. Custom Domain (Optional): If you have a custom domain, you can set it up through the Vercel dashboard or CLI.
+ 4. Follow Prompts: Follow the prompts in the CLI to set up your deployment. You might be asked to provide your project name, and Vercel will handle the deployment process for you.
+ 5. Access Your Deployment: Once the deployment process is complete, Vercel will provide you with a URL where your application is hosted.
+ 6. Custom Domain (Optional): If you have a custom domain, you can set it up through the Vercel dashboard or CLI.
 
 - Remember to configure your backend deployment separately if you're hosting it on a different platform like Heroku or Vercel Functions. If you're using Vercel Functions for your backend, you can follow similar - steps to deploy it using the Vercel CLI.
 
