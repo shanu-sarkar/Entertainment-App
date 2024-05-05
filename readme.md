@@ -73,14 +73,6 @@
   - cookie-parser
   - bcrypt
 
-### Configure Environment Variables: Create a .env file based on the provided .env.example file. Provide your MongoDB URI and TMDB API key in the .env file.
-  [
-    MONGODB_URL= "Mongodb connection string our url "
-TOKEN= "Secret token for authentication & cookies"
-NODE_ENV="Current environment - Development or Production"
-TMDB_KEY="TMDB api key "
-FRONTEND_URL="Frontend url"
-  ]
 # Deployment:-
 - Frontent:-https://entertainment-app-shnau.vercel.app/
 - Backend:-https://entertainment-app-backendshanu.vercel.app/
@@ -108,7 +100,13 @@ FRONTEND_URL="Frontend url"
 4. Access the application at:-
   - http://localhost:5173 for the frontend and
   - http://localhost:8000 for the backend.
-
+    
+5. **Configure Environment Variables**: Create a `.env` file based on the provided `.env.example` file. Provide your MongoDB URI and TMDB API key in the `.env` file.
+   ```bash
+    MONGODB_URL= "your mongodb url"
+    SECRET_TOKEN= "your secret token for user authentication"
+    TMDB_TOKEN= "your tmdb access token for tmdb media data"
+   ```
 # Contributing:-
 - We welcome contributions from the community! If you find any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
