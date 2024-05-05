@@ -1,60 +1,60 @@
 # Entertainment App
 ## Welcome to our Entertainment App project! This repository contains both the frontend and backend code for our application. The frontend is built using React with Vite and Tailwind CSS, while the backend is built with Node.js using Express, Axios, Crocs, JWT for authentication, Mongoose for MongoDB database interaction, and Nodemon for automatic server restarts during development.
 
-File Structure
-Frontend :-
-frontend/
-│
-├── public/
-│   ├── index.html
-│   └── ...
-│
-├── src/
-│   ├── components/
-│   │   ├── ...
-│   │   └── ...
-│   ├── pages/
-│   │   ├── ...
-│   │   └── ...
-│   ├── App.js
-│   └── index.js
-│
-├── .gitignore
-├── package.json
-├── README.md
-└── ...
+# File Structure
+### Frontend :-
+- frontend/
+- │
+- ├── public/
+- │   ├── index.html
+- │   └── ...
+- │
+- ├── src/
+- │   ├── components/
+- │   │   ├── ...
+- │   │   └── ...
+- │   ├── pages/
+- │   │   ├── ...
+- │   │   └── ...
+- │   ├── App.js
+- │   └── index.js
+- │
+- ├── .gitignore
+- ├── package.json
+- ├── README.md
+- └── ...
 
-Backend:-
-backend/
-│
-├── controllers/
-│   ├── ...
-│   └── ...
-│
-├── models/
-│   ├── ...
-│   └── ...
-│
-├── routes/
-│   ├── ...
-│   └── ...
-│
-├── utils/
-│   ├── ...
-│   └── ...
-│
-├── .gitignore
-├── package.json
-├── README.md
-└── server.js
+# Backend:-
+- backend/
+- │
+- ├── controllers/
+- │   ├── ...
+- │   └── ...
+- │
+- ├── models/
+- │   ├── ...
+- │   └── ...
+- │
+- ├── routes/
+- │   ├── ...
+- │   └── ...
+- │
+- ├── utils/
+- │   ├── ...
+- │   └── ...
+- │
+- ├── .gitignore
+- ├── package.json
+- ├── README.md
+- └── server.js
 
-Technologies Used :-
-.Frontend:-
+# Technologies Used :-
+- Frontend:-
   .React
   .Vite
   .Tailwind CSS
 
-.Backend:-
+- Backend:-
   .Node.js
   .Express
   .Axios
