@@ -64,8 +64,8 @@ Technologies Used :-
   .Nodemon
 
 # Deployment
-.Frontent:-https://entertainment-app-shnau.vercel.app/
-.Backend:-https://entertainment-app-backendshanu.vercel.app/
+- Frontent:-https://entertainment-app-shnau.vercel.app/
+- Backend:-https://entertainment-app-backendshanu.vercel.app/
 
 Getting Started
 To get started with the development of this project, follow these steps:
