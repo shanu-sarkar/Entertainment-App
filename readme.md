@@ -1,6 +1,13 @@
 # Entertainment App
 ## Welcome to our Entertainment App project! This repository contains both the frontend and backend code for our application. The frontend is built using React with Vite and Tailwind CSS, while the backend is built with Node.js using Express, Axios, Crocs, JWT for authentication, Mongoose for MongoDB database interaction, and Nodemon for automatic server restarts during development.
 
+## Features
+
+- **User Authentication**: Utilizes JWT for secure login and registration, ensuring user data protection.
+- **Media Exploration**: Allows users to discover trending movies and TV shows, with detailed views available for each media item.
+- **Bookmarks**: Enables users to bookmark their favorite media, creating a personalized list of favorites accessible at any time.
+- **Detailed Media Information**: Provides in-depth details about movies and TV shows, including cast, genres, ratings, and more.
+
 # File Structure
 # Frontend :-
 - frontend/
@@ -134,3 +141,13 @@
 - Remember to configure your backend deployment separately if you're hosting it on a different platform like Heroku or Vercel Functions. If you're using Vercel Functions for your backend, you can follow similar - steps to deploy it using the Vercel CLI.
 
 - Feel free to ask if you need further assistance!
+
+### Backend
+
+- **Controllers**: Contains logic for handling API requests, such as `DetailMediaController.js` for fetching detailed media information.
+- **Models**: Defines the schema for database collections, including Users and Bookmarks.
+- **Routes**: API routes for handling requests to different endpoints.
+- **Middleware**: Includes middleware for authentication and error handling.
+- **Utils**: Helper functions for interacting with external APIs (`fetchDataUtils.js`) and customizing media response data (`customizeMediaResponse.js`).
+
+# Thank You ❤️
